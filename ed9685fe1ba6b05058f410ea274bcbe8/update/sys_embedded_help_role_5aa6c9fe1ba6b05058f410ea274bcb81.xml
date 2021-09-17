@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_tsting124.admin" name="x_snc_tsting124.admin">75a681be1ba6b05058f410ea274bcbf3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2021-09-16 00:20:54</sys_created_on>
+        <sys_id>5aa6c9fe1ba6b05058f410ea274bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>75a681be1ba6b05058f410ea274bcbf3</sys_name>
+        <sys_package display_value="Tsting124" source="x_snc_tsting124">ed9685fe1ba6b05058f410ea274bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tsting124">ed9685fe1ba6b05058f410ea274bcbe8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5aa6c9fe1ba6b05058f410ea274bcb81</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2021-09-16 00:20:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
